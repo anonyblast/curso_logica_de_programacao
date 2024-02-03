@@ -12,6 +12,7 @@
 // EXERCÍCIO_0001 - DECLARAR UMA VARIÁVEL E MUDAR O VALOR DELA UMA VEZ
 // *** COMEÇO DO SEU CÓDIGO AQUI
 let resposta1 = 1;
+resposta1 = 2;
 // *** FIM DO SEU CÓDIGO AQUI
 
 // - O QUE SÃO CONSTANTES?
@@ -28,7 +29,7 @@ console.log(resposta2);
 // *** FIM DO SEU CÓDIGO AQUI
 
 // Aqui você vai colocar a variável e a constante e também o seu nome:
-avaliador(resposta1, resposta2, 'Leandro');
+avaliador(resposta1, resposta2, 'seunome');
 /**
  * 
  * 
